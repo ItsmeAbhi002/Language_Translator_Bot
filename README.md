@@ -1,4 +1,4 @@
-# Text_Translator_Bot
+# Language_Translator_Bot
 1. Initially open the Text_Translator_Bot folder in VS Code.
 2. Now, Run the app.py.
 3. Later run the Gradio_interface.py.
